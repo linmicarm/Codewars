@@ -12,4 +12,4 @@ Assume that beast and dish are always lowercase strings, and that each has at le
 function feast(beast, dish) {
 //Check if the first character of beast is the same as the first character of dish and if the last character of beast is the same as the last character of dish.
  return dish.startsWith(beast[0]) && dish.endsWith(beast[beast.length-1])
-  }
+}
