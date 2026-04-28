@@ -4,7 +4,7 @@ Complete the function which converts a binary number (given as a string) to a de
 
 //My Solution://
 
-//Declcare a fucntion
+//Declare a function called binToDec that takes in bin as a paramater
 function binToDec(bin) {
   return parseInt(bin, 2);
 }
