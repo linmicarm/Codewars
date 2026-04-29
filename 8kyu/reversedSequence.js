@@ -7,7 +7,7 @@ Example : n=5 --> [5,4,3,2,1]
 
 //My solution://
 
-//Declare funcction called reverseSeq that takes in a parameter n
+//Declare a function called reverseSeq that takes in a parameter n
 const reverseSeq = n => {
 //Create an empty array called arr
   let arr = [];
