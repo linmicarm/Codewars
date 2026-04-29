@@ -11,8 +11,8 @@ Examples (input --> output):
 
 //My solution://
 
-//Declare function called numberToString that takes in num as a parameter
-function numberToString(num) {
-//Return the value of num converted to a string using Javasript's navtive '.toString()' method
+//Declare function called numberToString that takes in number as a parameter
+function numberToString(number) {
+//Return value of number converted to a string using Javasript's navtive '.toString()' method
   return num.toString();
 }
